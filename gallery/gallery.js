@@ -1,33 +1,91 @@
-function barack() { 
-   var load = document.getElementById('loading');
-   setTimeout(clean, 1000);
-   window.location.href = "../check/check.html";
+
+
+function barack() {    
+   var all= document.getElementById('everything');
+   var load= document.getElementById('loading');     
+   load.style.display="block"; 
+   all.style.display="none"; 
+   setTimeout(clean, 1000); 
+   console.log("clean2");    
+  
 }
 
 function clean(){
+   var all= document.getElementById('everything');
+   var load= document.getElementById('loading');  
+   load.style.display="none"; 
+   all.style.display="none";   
    console.log("clean");
+
 }
 
  function chatgpt(){
-    window.location.href="../check/check.html";
+   var all= document.getElementById('everything');
+   var load= document.getElementById('loading');     
+   load.style.display="block"; 
+   all.style.display="none"; 
+   setTimeout(clean, 1000); 
+   console.log("clean2"); 
  }
  function dalle(){
-    window.location.href="../check/check.html";
+   var all= document.getElementById('everything');
+   var load= document.getElementById('loading');     
+   load.style.display="block"; 
+   all.style.display="none"; 
+   setTimeout(clean, 1000); 
+   console.log("clean2"); 
  }
+ 
  function damsel(){
-    window.location.href="../check/check.html";
+   var all= document.getElementById('everything');
+   var load= document.getElementById('loading');     
+   load.style.display="block"; 
+   all.style.display="none"; 
+   setTimeout(clean, 1000); 
+   console.log("clean2"); 
  }
+
  function nba(){
-    window.location.href="../check/check.html";
+   var all= document.getElementById('everything');
+   var load= document.getElementById('loading');     
+   load.style.display="block"; 
+   all.style.display="none"; 
+   setTimeout(clean, 1000); 
+   console.log("clean2"); 
  }
+
  function neymar(){
-    window.location.href="../check/check.html";
+   var all= document.getElementById('everything');
+   var load= document.getElementById('loading');     
+   load.style.display="block"; 
+   all.style.display="none"; 
+   setTimeout(clean, 1000); 
+   console.log("clean2"); 
  }
+
  function telescope(){
-    window.location.href="../check/check.html";
+   var all= document.getElementById('everything');
+   var load= document.getElementById('loading');     
+   load.style.display="block"; 
+   all.style.display="none"; 
+   setTimeout(clean, 1000); 
+   console.log("clean2"); 
  }
+
  function vegatables(){
-    window.location.href="../check/check.html";
- } function virus(){
-    window.location.href="../check/check.html";
+   var all= document.getElementById('everything');
+   var load= document.getElementById('loading');     
+   load.style.display="block"; 
+   all.style.display="none"; 
+   setTimeout(clean, 1000); 
+   console.log("clean2"); 
+ } 
+ 
+ function virus(){
+   var all= document.getElementById('everything');
+   var load= document.getElementById('loading');     
+   load.style.display="block"; 
+   all.style.display="none"; 
+   setTimeout(clean, 1000); 
+   console.log("clean2"); 
  }

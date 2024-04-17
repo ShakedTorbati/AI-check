@@ -1,0 +1,12 @@
+.pics{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 20px;
+    margin: 10px;
+    padding: 20px;
+    
+}
+#loading{
+    display: none;
+}

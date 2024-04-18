@@ -107,9 +107,9 @@ width: 50%;
 </style>`
 
 function gotogallery(){
-    window.location.href="gallery/gallery.html";
+    window.location.href="gallery.html";
 }
 
 function gotohome(){
-    window.location.href="../index.html";
+    window.location.href="index.html";
 }

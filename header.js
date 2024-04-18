@@ -41,7 +41,8 @@ height: 100px;
 background-color:#A8DDE1;
 color:LavenderBlush;
 font-family:Oswald;
-
+position: sticky;
+  top: 0;
 }
 
 #homebutton{
@@ -70,7 +71,7 @@ font-family:Oswald;
 body {
 align-items: center;
 color:PowderBlue;
-position: static;
+
  }
 
 img{

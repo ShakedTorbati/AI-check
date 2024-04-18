@@ -17,7 +17,7 @@ header.innerHTML=`
     display: flex;
     flex-direction: row;
     justify-content:end;
-
+    
     height: 60px;
 
    
@@ -44,6 +44,7 @@ height: 150px;
 background-color:#A8DDE1;
 color:Teal;
 font-family:Oswald;
+position: sticky;
 
 }
 

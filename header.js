@@ -14,7 +14,7 @@ header.innerHTML=`
     display: flex;
     flex-direction: row;
     justify-content:end;
-    
+    cursor: pointer;
     height: 100px;
     
    
@@ -49,6 +49,7 @@ font-family:Oswald;
     width: 100px;
     font-size: 20px;
     text-align:center; 
+    cursor: pointer;
 
 }
 
@@ -56,13 +57,15 @@ font-family:Oswald;
     width: 100px;
     font-size: 20px;
     text-align:center; 
+    cursor: pointer;
 
 }
 
 #aboutusbutton{
     width: 100px;
     font-size: 20px;
-    text-align:center;  
+    text-align:center;
+    cursor: pointer;  
 
 }
 

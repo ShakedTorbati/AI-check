@@ -7,9 +7,12 @@
     padding: 20px;
     
 }
-.one {display: flex;}
-.two {display: flex;}
-.three{display: flex;}
+.one {display: flex;
+    cursor: pointer;}
+.two {display: flex;
+    cursor: pointer;}
+.three{display: flex;
+    cursor: pointer;}
 #loading{
     display: none;
 }

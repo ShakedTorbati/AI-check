@@ -39,7 +39,7 @@ flex-direction: row;
 justify-content:space-between;
 height: 100px;
 background-color:Lavender;
-color:LavenderBlush;
+color:Pink;
 font-family:Oswald;
 
 }

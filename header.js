@@ -38,11 +38,10 @@ display: flex;
 flex-direction: row;
 justify-content:space-between;
 height: 100px;
-background-color:#A8DDE1;
+background-color:Lavender;
 color:LavenderBlush;
 font-family:Oswald;
-position: sticky;
-  top: 0;
+
 }
 
 #homebutton{
@@ -70,7 +69,7 @@ position: sticky;
 
 body {
 align-items: center;
-color:PowderBlue;
+color:Black;
 
  }
 

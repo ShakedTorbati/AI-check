@@ -25,4 +25,6 @@ https://edition.cnn.com/
 <br><p> Artical 7 is from:
 https://www.space.com/
 <br><p> Artical 8 is from:
-https://www.space.com/
+https://www.ndtv.com/
+<br><p> Artical 9 is from:
+https://www.nytimes.com/international/

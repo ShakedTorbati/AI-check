@@ -89,9 +89,11 @@ function clean(){
    setTimeout(clean, 1000); 
    console.log("clean2"); 
  }
-var true=0;
-var false=0;
- function check(){
+true=0;
+false=0;
+ //This function simulate the check with google and ai,
+ //it isn't work but in the future we want to add Google information and build artificial intelligence.
+function check(){
   var date
   var date_in_google
   var header_in_article

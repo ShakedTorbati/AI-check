@@ -42,9 +42,8 @@ flex-direction: row;
 justify-content:space-between;
 height: 150px;
 background-color:#A8DDE1;
-color:Teal;
+color:LavenderBlush;
 font-family:Oswald;
-position: sticky;
 
 }
 
@@ -73,8 +72,8 @@ position: sticky;
 
 body {
 align-items: center;
-background-color:Lavender;
-
+background-color:LavenderBlush;
+position: sticky;
  }
 
 img{

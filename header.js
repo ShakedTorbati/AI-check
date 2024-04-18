@@ -50,6 +50,7 @@ font-family:Oswald;
     font-size: 20px;
     text-align:center; 
     cursor: pointer;
+    background-color: Purple;
 
 }
 
@@ -58,6 +59,7 @@ font-family:Oswald;
     font-size: 20px;
     text-align:center; 
     cursor: pointer;
+    background-color: Purple;
 
 }
 

@@ -3,4 +3,13 @@
 *The project was created for the Coolest Projects competition.</p>
 <strong>link to the project:</strong>
 <br>https://ai-check-site.netlify.app/
+<br><br><p>The function that simulates artificial intelligence and google: </p> <br> <br> <br>
 <img src="./pics_for_readme/Screenshot 2024-04-18 193738.png">
+<img src="./pics_for_readme/Screenshot 2024-04-18 194739.png">
+<br> <br> <br>
+<p>Credits for the project: </p>
+<br><p> The font in the gallery page from:
+https://www.dafont.com/another-danger.font?back=theme
+<br><p> Artical 1 is from:
+https://www.dafont.com/another-danger.font?back=theme
+

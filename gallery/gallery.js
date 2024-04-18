@@ -125,6 +125,7 @@ function check(){
     alert("checking site in google")
     false=false+30
   }
+  //in the final stage, we check with ai if the artical is true 
   if(ai==artical){
     alert("checking ai")
     true=true+45

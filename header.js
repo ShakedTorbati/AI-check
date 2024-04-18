@@ -40,7 +40,7 @@ header.innerHTML=`
 display: flex;
 flex-direction: row;
 justify-content:space-between;
-height: 150px;
+height: 100px;
 background-color:#A8DDE1;
 color:LavenderBlush;
 font-family:Oswald;
@@ -72,8 +72,8 @@ font-family:Oswald;
 
 body {
 align-items: center;
-background-color:LavenderBlush;
-position: sticky;
+color:PowderBlue;
+position: static;
  }
 
 img{

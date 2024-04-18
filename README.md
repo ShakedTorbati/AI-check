@@ -3,3 +3,4 @@
 *The project was created for the Coolest Projects competition.</p>
 <strong>link to the project:</strong>
 <br>https://ai-check-site.netlify.app/
+<>

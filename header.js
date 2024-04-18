@@ -7,8 +7,7 @@ header.innerHTML=`
 
     <div align="right" id="topbuttons">
         <button class="buttons" id="homebutton" type="submit" onclick="gotohome()">home</button>
-         <button class="buttons" id="gallerybutton" type="submit" onclick="gotostore()">gallery</button>
-         <button class="buttons" id="aboutbutton" type="submit" onclick="gotoaboutus()">about us</button>
+         <button class="buttons" id="gallerybutton" type="submit" onclick="gotogallery()">gallery</button>
     </div>
 </div>
  
@@ -109,14 +108,10 @@ width: 50%;
 }
 </style>`
 
-function gotohome(){
-    window.location.href="../html/homepage.html";
-}
-
 function gotogallery(){
-    window.location.href="../html/gallery.html";
+    window.location.href="gallery/gallery.html";
 }
 
-function gotoabout(){
+function gotohome(){
     window.location.href="../index.html";
 }

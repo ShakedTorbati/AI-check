@@ -2,7 +2,7 @@ let header = document.getElementById("header");
 header.innerHTML=`
 <div id="topall">
     <div align="left" id="topbuttons">
-    <img src="logo2.png">
+    <img id= "picture" src="logo2.png">
         <button class="buttons" id="homebutton" type="submit" onclick="gotohome()">home</button>
          <button class="buttons" id="gallerybutton" type="submit" onclick="gotogallery()">gallery</button>
     </div>
@@ -15,13 +15,14 @@ header.innerHTML=`
     flex-direction: row;
     justify-content:end;
     
-    height: 40px;
-
+    height: 100px;
+    
    
     
     
 }
-
+#picture {width= 300px;
+height= 300px;}
 #toptext{
     font-size:25px;
     width:200px;

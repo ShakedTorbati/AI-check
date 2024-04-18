@@ -1,11 +1,8 @@
 let header = document.getElementById("header");
 header.innerHTML=`
 <div id="topall">
-    <div align="right" id="toppix"> 
-     <a href= "../html/home.html"><img src = "../img/logo2.png"/></a>
-    </div>
-
-    <div align="right" id="topbuttons">
+    <div align="left" id="topbuttons">
+    <img src="logo2.png">
         <button class="buttons" id="homebutton" type="submit" onclick="gotohome()">home</button>
          <button class="buttons" id="gallerybutton" type="submit" onclick="gotogallery()">gallery</button>
     </div>

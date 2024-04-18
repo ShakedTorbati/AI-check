@@ -15,7 +15,7 @@ header.innerHTML=`
     flex-direction: row;
     justify-content:end;
     
-    height: 60px;
+    height: 40px;
 
    
     
@@ -83,7 +83,7 @@ width: 50%;
 }
 
 .homebutton:hover, #homebutton:hover {
-    background-color:DarkSalmon;
+    background-color:DarkViolet;
 
 }
 #gallerybutton{

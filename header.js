@@ -83,7 +83,8 @@ width: 50%;
 }
 
 .homebutton:hover, #homebutton:hover {
-    background-color:DarkViolet;
+    background-color:#FFB6C1;
+
 
 }
 #gallerybutton{
@@ -91,7 +92,7 @@ width: 50%;
 }
 
 .gallerybutton:hover, #gallerybutton:hover {
-    background-color:DarkSalmon;
+    background-color:#FFB6C1;
 
 }
 

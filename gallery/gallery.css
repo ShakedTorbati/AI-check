@@ -7,6 +7,9 @@
     padding: 20px;
     
 }
+.one {display: flex;}
+.two {display: flex;}
+.three{display: flex;}
 #loading{
     display: none;
 }

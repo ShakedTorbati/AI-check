@@ -1,13 +1,11 @@
-alert("hi");
-function barack() {  
-  alert("hello")  
+function barack() {   
   var all= document.getElementById('everything');
   var load= document.getElementById('loading');     
   load.style.display="block"; 
   all.style.display="none"; 
   setTimeout(clean, 1000); 
-  console.log("clean2");    
- 
+  console.log("clean2");
+  var data= document.getElementById('everything');
 }
 
 function clean(){
@@ -90,17 +88,17 @@ function virus(){
   console.log("clean2"); 
 }
 var True=0
-var False=0
+var False=0  
+var date
+var date_in_google
+var header_in_article
+var header_in_site
+var site_in_google
+var artical
+var ai
  //This function simulate the check with google and ai,
- //it isn't work but in the future we want to add Google information and build artificial intelligence.
+ //it doesn't work but in the future we want to add Google information and build artificial intelligence.
 function check(){
-  var date
-  var date_in_google
-  var header_in_article
-  var header_in_site
-  var site_in_google
-  var artical
-  var ai
   if (date==date_in_google){
     alert("checking date")
     True=True+10
@@ -133,6 +131,12 @@ function check(){
   else{
     alert("checking ai")
     False=False+45
+  }
+  if (True>=90 || False<90){
+    console.log("The artical is true");
+  }
+  else if (True<90 || False>=90){
+    console.log("The artical is false");
   }
   
  }

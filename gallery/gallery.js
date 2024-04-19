@@ -1,5 +1,4 @@
-
-
+alert("hi");
 function barack() {  
   alert("hello")  
   var all= document.getElementById('everything');
@@ -90,8 +89,8 @@ function virus(){
   setTimeout(clean, 1000); 
   console.log("clean2"); 
 }
-true=0;
-false=0;
+var True=0
+var False=0
  //This function simulate the check with google and ai,
  //it isn't work but in the future we want to add Google information and build artificial intelligence.
 function check(){
@@ -104,36 +103,36 @@ function check(){
   var ai
   if (date==date_in_google){
     alert("checking date")
-    true=true+10
+    True=True+10
   }
   else{
     alert("checking date")
-    false=false+10
+    False=False+10
   }
   if (header_in_site==header_in_site){
     alert("checking header")
-    true=true+15
+    True=True+15
   }
   else{
     alert("checking header")
-    false=false+15
+    False=False+15
   }
   if (site_in_google==artical){
     alert("checking site in google")
-    true=true+30
+    True=True+30
   }
   else{
     alert("checking site in google")
-    false=false+30
+    False=False+30
   }
-  //in the final stage, we check with ai if the artical is true 
+  //in the final stage, we check with ai if the artical is True 
   if(ai==artical){
     alert("checking ai")
-    true=true+45
+    True=True+45
   }
   else{
     alert("checking ai")
-    false=false+45
+    False=False+45
   }
   
  }

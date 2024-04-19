@@ -12,4 +12,17 @@
 https://www.dafont.com/another-danger.font?back=theme
 <br><p> Artical 1 is from:
 https://www.dafont.com/another-danger.font?back=theme
-
+<br><p> Artical 2 is from:
+https://www.psypost.org/
+<br><p> Artical 3 is from:
+https://www.theverge.com/
+<br><p> Artical 4 is from:
+https://www.seattletimes.com/
+<br><p> Artical 5 is from:
+https://www.nba.com/
+<br><p> Artical 6 is from:
+https://edition.cnn.com/
+<br><p> Artical 7 is from:
+https://www.space.com/
+<br><p> Artical 8 is from:
+https://www.space.com/

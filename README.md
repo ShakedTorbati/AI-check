@@ -7,7 +7,7 @@
 <img src="./pics_for_readme/Screenshot1.png">
 <img src="./pics_for_readme/Screenshot2.png">
 <img src="./pics_for_readme/Screenshot 3.png">
-<br> <br> <br>
+<br> <br>
 <p>Credits for the project: </p>
 <br><p> The font in the gallery page from:
 https://www.dafont.com/another-danger.font?back=theme

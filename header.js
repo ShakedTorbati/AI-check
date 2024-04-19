@@ -15,14 +15,14 @@ header.innerHTML=`
     flex-direction: row;
     justify-content:end;
     cursor: pointer;
-    height: 100px;
+    height: 80px;
     
    
     
     
 }
-#picture {width= 300px;
-height= 300px;}
+#picture {width= 280px;
+height= 280px;}
 #toptext{
     font-size:25px;
     width:200px;

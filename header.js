@@ -21,8 +21,12 @@ header.innerHTML=`
     
     
 }
-#picture {width= 280px;
-height= 280px;}
+#picture { 
+width:100px;
+height:100px;
+margin-right:15px;
+float: right;
+}
 #toptext{
     font-size:25px;
     width:200px;
@@ -47,6 +51,7 @@ font-family:Oswald;
 
 #homebutton{
     width: 100px;
+    height: 100px;
     font-size: 20px;
     text-align:center; 
     cursor: pointer;
@@ -56,6 +61,7 @@ font-family:Oswald;
 
 #gallerybutton{
     width: 100px;
+    height: 100px;
     font-size: 20px;
     text-align:center; 
     cursor: pointer;

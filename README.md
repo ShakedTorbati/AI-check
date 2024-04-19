@@ -3,7 +3,7 @@
 *The project was created for the Coolest Projects competition.</p>
 <strong>link to the project:</strong>
 <br>https://ai-check-site.netlify.app/
-<br><br><p>The function that simulates artificial intelligence and google: </p> <br> <br> <br>
+<br><br><p>The function that simulates artificial intelligence and google: </p> <br> 
 <img src="./pics_for_readme/Screenshot1.png">
 <img src="./pics_for_readme/Screenshot2.png">
 <img src="./pics_for_readme/Screenshot 3.png">

@@ -134,11 +134,12 @@ var date_in_google
 var header_in_article
 var header_in_site
 var site_in_google
-var artical
+var article
 var ai
 //This function simulate the check with google and ai,
 //it doesn't work but in the future we want to add Google information and build artificial intelligence.
 function check() {
+  //checking if the date is possible
   if (date == date_in_google) {
     alert("checking date")
     True = True + 10
@@ -147,7 +148,8 @@ function check() {
     alert("checking date")
     False = False + 10
   }
-  if (header_in_site == header_in_site) {
+  //checking if the header is like the title
+  if (header_in_article == header_in_site) {
     alert("checking header")
     True = True + 15
   }
@@ -155,7 +157,8 @@ function check() {
     alert("checking header")
     False = False + 15
   }
-  if (site_in_google == artical) {
+  //checking with google, if there are more articles about the topic
+  if (site_in_google == article) {
     alert("checking site in google")
     True = True + 30
   }
@@ -163,8 +166,8 @@ function check() {
     alert("checking site in google")
     False = False + 30
   }
-  //in the final stage, we check with ai if the artical is True 
-  if (ai == artical) {
+  //in the final stage, we check with ai if the article is True 
+  if (ai == article) {
     alert("checking ai")
     True = True + 45
   }
@@ -172,11 +175,12 @@ function check() {
     alert("checking ai")
     False = False + 45
   }
+  //with all the data we checked, we calculate if the article is true or false
   if (True >= 90 || False < 90) {
-    console.log("The artical is true");
+    console.log("The article is true");
   }
   else if (True < 90 || False >= 90) {
-    console.log("The artical is false");
+    console.log("The article is false");
   }
 
 }

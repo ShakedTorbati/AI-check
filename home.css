@@ -12,21 +12,25 @@
     display: flex;
     width: 1200px;
 }
-.israel{
+
+.israel {
     width: 150px;
     height: 150px;
     position: relative;
     left: 30px;
     top: -10px;
 }
-.alice_code{
+
+.alice_code {
     width: 130px;
     height: 130px;
 }
-.coolest{
+
+.coolest {
     width: 120px;
     height: 100px;
 }
+
 .p3 {
     display: flex;
     width: 1200px;

@@ -1,5 +1,5 @@
 let header = document.getElementById("header");
-header.innerHTML=`
+header.innerHTML = `
 <div id="topall">
     <div align="left" id="topbuttons">
     <img id= "picture" src="./Media_out/logo2.png" onclick="gotohome()">
@@ -118,10 +118,10 @@ width: 50%;
 }
 </style>`
 
-function gotogallery(){
-    window.location.href="gallery.html";
+function gotogallery() {
+    window.location.href = "gallery.html";
 }
 
-function gotohome(){
-    window.location.href="index.html";
+function gotohome() {
+    window.location.href = "index.html";
 }

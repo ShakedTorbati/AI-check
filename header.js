@@ -2,7 +2,7 @@ let header = document.getElementById("header");
 header.innerHTML=`
 <div id="topall">
     <div align="left" id="topbuttons">
-    <img id= "picture" src="logo2.png" onclick="gotohome()">
+    <img id= "picture" src="./Media_out/logo2.png" onclick="gotohome()">
         <button class="buttons" id="homebutton" type="submit" onclick="gotohome()">home</button>
          <button class="buttons" id="gallerybutton" type="submit" onclick="gotogallery()">gallery</button>
     </div>

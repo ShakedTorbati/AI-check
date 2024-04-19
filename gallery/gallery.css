@@ -1,20 +1,36 @@
-.pics{
+.pics {
     width: 300px;
     height: 300px;
     position: relative;
     top: 20px;
     margin: 30px;
     padding: 20px;
-    
+
 }
-.one {display: flex;
-    cursor: pointer;}
-.two {display: flex;
-    cursor: pointer;}
-.three{display: flex;
-    cursor: pointer;}
-#loading{
+
+.one {
+    display: flex;
+    cursor: pointer;
+}
+
+.two {
+    display: flex;
+    cursor: pointer;
+}
+
+.three {
+    display: flex;
+    cursor: pointer;
+}
+
+#loading {
     display: none;
 }
-#damsel-real{width: 350px;}
-#virus_fake_div {width: 1500px;}
+
+#damsel-real {
+    width: 350px;
+}
+
+#virus_fake_div {
+    width: 1500px;
+}

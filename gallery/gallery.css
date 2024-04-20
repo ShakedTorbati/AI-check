@@ -34,3 +34,6 @@
 #virus_fake_div {
     width: 1500px;
 }
+#results{
+    display: none; 
+}

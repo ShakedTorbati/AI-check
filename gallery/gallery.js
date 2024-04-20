@@ -12,12 +12,17 @@ function answers_barack() {
   var header = document.getElementById('answers-header_check');
   var google = document.getElementById('answers-google_check');
   var ai = document.getElementById('answers-ai');
-  var final = document.getElementById('final');
+  var final1 = document.getElementById('final1');
+  var final2 = document.getElementById('final2');
+  var results = document.getElementById('results');
+  results.style.display = "block";
   date.innerText = "1.date:MARCH 18, 2024 6:35 PM CET-True"
   header.innerText = "2.header check:the title versus the article - the same topic-True"
   google.innerText = "3.google check:checking how many international news sites have the same case-True"
   ai.innerText = "4.ai check-True"
-  final.innerText = "100% True, 0% False, THE ARTICALE IS TRUE"
+  final1.innerText = "100% True, 0% False, THE ARTICLE IS";
+  final2.innerText = "TRUE";
+  final2.style.color="green";
 }
 function clean_barack() {
   var all = document.getElementById('everything');
@@ -45,16 +50,22 @@ function chatgpt() {
 
 }
 function answers_chatgpt() {
+  document. body. style. backgroundColor="#FFFAFA"
   var date = document.getElementById('answers-date');
   var header = document.getElementById('answers-header_check');
   var google = document.getElementById('answers-google_check');
   var ai = document.getElementById('answers-ai');
-  var final = document.getElementById('final');
+  var final1 = document.getElementById('final1');
+  var final1 = document.getElementById('final1');
+  var results = document.getElementById('results');
+  results.style.display = "block";
   date.innerText = "1. Date: March 25, 2024 - True";
   header.innerText = "2. Header check: The title versus the article - the same topic - True";
   google.innerText = "3. Google check - False";
   ai.innerText = "4. AI check - Not Sure";
-  final.innerText = "50% True, 50% False, THE ARTICLE IS FALSE";
+  final1.innerText = "50% True, 50% False, THE ARTICLE IS";
+  final2.innerText = "FALSE";
+  final2.style.color="red";
 }
 
 function clean_chatgpt() {

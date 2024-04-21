@@ -193,5 +193,4 @@ function check() {
   else if (True < 90 || False >= 90) {
     console.log("The article is false");
   }
-
 }
